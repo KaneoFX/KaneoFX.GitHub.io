@@ -11,10 +11,11 @@ img{
 }
 li{
   font-size:30px;
+  list-style:none;
 }
 a{
   font-size:50px;
-  color:white;
+  color:red;
 }
 
 kaneo{
